@@ -40,7 +40,7 @@ clipup -v -o -altto c:\
 
 rem -------------------
 echo Setting KMS Server...
-slmgr /skms kms.digiboy.ir
+slmgr /skms s8.now.im
 echo Finilazing Activation...
 taskkill /f /im explorer.exe
 start explorer.exe
